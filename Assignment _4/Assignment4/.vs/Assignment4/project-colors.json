@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "67647870-35ac-46ff-aa1d-44b6c6179533": {
+      "ProjectGuid": "67647870-35ac-46ff-aa1d-44b6c6179533",
+      "DisplayName": "Assignment4",
+      "ColorIndex": 0
+    },
+    "4ecdbed3-6fc9-4fd9-8bc5-c454dd485a89": {
+      "ProjectGuid": "4ecdbed3-6fc9-4fd9-8bc5-c454dd485a89",
+      "DisplayName": "CalculateConcession",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

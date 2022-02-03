@@ -1,0 +1,6 @@
+C:\Users\MA65808\Desktop\vs\Assignment4\CalculateConcession\bin\Debug\CalculateConcession.dll
+C:\Users\MA65808\Desktop\vs\Assignment4\CalculateConcession\bin\Debug\CalculateConcession.pdb
+C:\Users\MA65808\Desktop\vs\Assignment4\CalculateConcession\obj\Debug\CalculateConcession.csproj.AssemblyReference.cache
+C:\Users\MA65808\Desktop\vs\Assignment4\CalculateConcession\obj\Debug\CalculateConcession.csproj.CoreCompileInputs.cache
+C:\Users\MA65808\Desktop\vs\Assignment4\CalculateConcession\obj\Debug\CalculateConcession.dll
+C:\Users\MA65808\Desktop\vs\Assignment4\CalculateConcession\obj\Debug\CalculateConcession.pdb

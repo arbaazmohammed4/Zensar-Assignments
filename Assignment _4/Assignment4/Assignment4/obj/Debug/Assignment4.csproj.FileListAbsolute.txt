@@ -1,0 +1,11 @@
+C:\Users\MA65808\Desktop\vs\Assignment4\Assignment4\bin\Debug\Assignment4.exe.config
+C:\Users\MA65808\Desktop\vs\Assignment4\Assignment4\bin\Debug\Assignment4.exe
+C:\Users\MA65808\Desktop\vs\Assignment4\Assignment4\bin\Debug\Assignment4.pdb
+C:\Users\MA65808\Desktop\vs\Assignment4\Assignment4\bin\Debug\CalculateConcession.dll
+C:\Users\MA65808\Desktop\vs\Assignment4\Assignment4\bin\Debug\CalculateConcession.pdb
+C:\Users\MA65808\Desktop\vs\Assignment4\Assignment4\obj\Debug\Assignment4.csproj.AssemblyReference.cache
+C:\Users\MA65808\Desktop\vs\Assignment4\Assignment4\obj\Debug\Assignment4.csproj.SuggestedBindingRedirects.cache
+C:\Users\MA65808\Desktop\vs\Assignment4\Assignment4\obj\Debug\Assignment4.csproj.CoreCompileInputs.cache
+C:\Users\MA65808\Desktop\vs\Assignment4\Assignment4\obj\Debug\Assignment4.csproj.CopyComplete
+C:\Users\MA65808\Desktop\vs\Assignment4\Assignment4\obj\Debug\Assignment4.exe
+C:\Users\MA65808\Desktop\vs\Assignment4\Assignment4\obj\Debug\Assignment4.pdb
