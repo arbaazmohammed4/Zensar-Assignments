@@ -1,0 +1,7 @@
+C:\Users\arbaa\OneDrive\Desktop\Case Study Assignment 1\Case_Study_Project_Enrollment\Case_Study_Project_Enrollment\bin\Debug\Case_Study_Project_Enrollment.exe.config
+C:\Users\arbaa\OneDrive\Desktop\Case Study Assignment 1\Case_Study_Project_Enrollment\Case_Study_Project_Enrollment\bin\Debug\Case_Study_Project_Enrollment.exe
+C:\Users\arbaa\OneDrive\Desktop\Case Study Assignment 1\Case_Study_Project_Enrollment\Case_Study_Project_Enrollment\bin\Debug\Case_Study_Project_Enrollment.pdb
+C:\Users\arbaa\OneDrive\Desktop\Case Study Assignment 1\Case_Study_Project_Enrollment\Case_Study_Project_Enrollment\obj\Debug\Mini Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\arbaa\OneDrive\Desktop\Case Study Assignment 1\Case_Study_Project_Enrollment\Case_Study_Project_Enrollment\obj\Debug\Mini Project.csproj.CoreCompileInputs.cache
+C:\Users\arbaa\OneDrive\Desktop\Case Study Assignment 1\Case_Study_Project_Enrollment\Case_Study_Project_Enrollment\obj\Debug\Case_Study_Project_Enrollment.exe
+C:\Users\arbaa\OneDrive\Desktop\Case Study Assignment 1\Case_Study_Project_Enrollment\Case_Study_Project_Enrollment\obj\Debug\Case_Study_Project_Enrollment.pdb
