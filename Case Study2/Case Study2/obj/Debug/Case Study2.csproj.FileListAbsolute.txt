@@ -1,0 +1,12 @@
+C:\Users\MA65808\Desktop\vs\Case Study2\Case Study2\obj\Debug\Case Study2.csproj.SuggestedBindingRedirects.cache
+C:\Users\MA65808\Desktop\vs\Case Study2\Case Study2\obj\Debug\Case Study2.csproj.CoreCompileInputs.cache
+C:\Users\MA65808\Desktop\vs\Case Study2\Case Study2\bin\Debug\Case Study2.exe.config
+C:\Users\MA65808\Desktop\vs\Case Study2\Case Study2\bin\Debug\Case Study2.exe
+C:\Users\MA65808\Desktop\vs\Case Study2\Case Study2\bin\Debug\Case Study2.pdb
+C:\Users\MA65808\Desktop\vs\Case Study2\Case Study2\bin\Debug\CaseStudy1.pdb
+C:\Users\MA65808\Desktop\vs\Case Study2\Case Study2\bin\Debug\CaseStudy1.exe.config
+C:\Users\MA65808\Desktop\vs\Case Study2\Case Study2\obj\Debug\Case Study2.csproj.CopyComplete
+C:\Users\MA65808\Desktop\vs\Case Study2\Case Study2\obj\Debug\Case Study2.exe
+C:\Users\MA65808\Desktop\vs\Case Study2\Case Study2\obj\Debug\Case Study2.pdb
+C:\Users\MA65808\Desktop\vs\Case Study2\Case Study2\obj\Debug\Case Study2.csproj.AssemblyReference.cache
+C:\Users\MA65808\Desktop\vs\Case Study2\Case Study2\bin\Debug\CaseStudy1.exe
