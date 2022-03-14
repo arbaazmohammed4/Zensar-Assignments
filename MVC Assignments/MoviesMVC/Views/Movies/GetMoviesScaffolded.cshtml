@@ -1,0 +1,33 @@
+﻿@model IEnumerable<MVCAssignment2.Models.MoviesTable>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Movie_Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Movie_DOR)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Movie_Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Movie_DOR)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.Movie_ID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.Movie_ID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.Movie_ID })
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,28 @@
+﻿@model MVCAssignment2.Models.MoviesTable
+
+<div>
+    <h4>MoviesTable</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Movie_Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Movie_Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Movie_DOR)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Movie_DOR)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Movie_ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

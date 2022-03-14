@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "42746aed-369d-4326-a4d7-5e644c8ccb38": {
+      "ProjectGuid": "42746aed-369d-4326-a4d7-5e644c8ccb38",
+      "DisplayName": "CustomerMVC",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
