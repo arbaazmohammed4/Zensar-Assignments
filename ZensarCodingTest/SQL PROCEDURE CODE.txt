@@ -1,0 +1,32 @@
+create database EmployeeManagement
+
+use EmployeeManagement
+
+create table Code_Employee
+(EmpNo int primary key,
+EmpName varchar(50) not null,
+EmpSal numeric(10,2) check (EmpSal >= 25000),
+EmpType varchar(1) check (EmpType in ('C','P')))
+
+select * from Code_Employee
+
+
+create procedure Add_New_Employee 
+           @ename varchar(50),
+		   @esal numeric(10,2),
+		   @etype varchar(1)
+AS
+ BEGIN 
+  declare @eid int = (select max(EmpNo) from Code_Employee)
+  if(@eid is null)
+  begin
+    set @eid = 0;
+    declare @empid int = @eid + 1;
+    insert into Code_Employee values(@empid, @ename, @esal, @etype)
+ END
+  else
+  begin
+   declare @empid1 int = @eid + 1;
+   insert into Code_Employee values(@empid1, @ename, @esal, @etype)
+  END
+END

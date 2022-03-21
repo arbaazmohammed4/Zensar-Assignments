@@ -1,0 +1,8 @@
+C:\Users\arbaa\OneDrive\Desktop\asp.net\ZensarCodingTest\ZensarCodingTest\bin\Debug\ZensarCodingTest.exe.config
+C:\Users\arbaa\OneDrive\Desktop\asp.net\ZensarCodingTest\ZensarCodingTest\bin\Debug\ZensarCodingTest.exe
+C:\Users\arbaa\OneDrive\Desktop\asp.net\ZensarCodingTest\ZensarCodingTest\bin\Debug\ZensarCodingTest.pdb
+C:\Users\arbaa\OneDrive\Desktop\asp.net\ZensarCodingTest\ZensarCodingTest\obj\Debug\ZensarCodingTest.csproj.AssemblyReference.cache
+C:\Users\arbaa\OneDrive\Desktop\asp.net\ZensarCodingTest\ZensarCodingTest\obj\Debug\ZensarCodingTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\arbaa\OneDrive\Desktop\asp.net\ZensarCodingTest\ZensarCodingTest\obj\Debug\ZensarCodingTest.csproj.CoreCompileInputs.cache
+C:\Users\arbaa\OneDrive\Desktop\asp.net\ZensarCodingTest\ZensarCodingTest\obj\Debug\ZensarCodingTest.exe
+C:\Users\arbaa\OneDrive\Desktop\asp.net\ZensarCodingTest\ZensarCodingTest\obj\Debug\ZensarCodingTest.pdb
